@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/J.L.P0020">
+      <Resource auth="Container" 
+                driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+                name="DBCon" password="123" type="javax.sql.DataSource"
+                url="jdbc:sqlserver://localhost:1433;databaseName=blog_website;"
+                username="sa"/>
+</Context>
